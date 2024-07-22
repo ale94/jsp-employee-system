@@ -44,10 +44,10 @@ El sistema de gestión de empleados utiliza los siguientes métodos HTTP para la
 ## Capturas de Pantalla
 
 ### Listado de Empleados
-<a href="https://ibb.co/dMcwg9m"><img src="https://i.ibb.co/h9MJf5Y/home.png" alt="home" border="0"></a>
+<a href="https://ibb.co/YNdYqhN"><img src="https://i.ibb.co/NFNQHKF/home.png" alt="home" border="0"></a>
 
 ### Formulario de Creación de Empleado
-<a href="https://ibb.co/kKSKd3n"><img src="https://i.ibb.co/b1K1fHh/edit-Employee.png" alt="edit-Employee" border="0"></a>
+<a href="https://ibb.co/jzYHgmw"><img src="https://i.ibb.co/ZSrNW5g/addEm.png" alt="addEm" border="0"></a>
 
 ### Formulario de Editado de Empleado
-<a href="https://ibb.co/NZy491P"><img src="https://i.ibb.co/867hrzp/add-Employee.png" alt="add-Employee" border="0"></a>
+<a href="https://ibb.co/ZWyqYjg"><img src="https://i.ibb.co/zGKq7M2/ediEm.png" alt="ediEm" border="0"></a>
