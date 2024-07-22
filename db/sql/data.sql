@@ -1,4 +1,4 @@
 INSERT INTO employee (name, department, salary) VALUES
-     ('Brad', 'Luisana', 2500),
-     ('George', 'Texas', 1500),
-     ('Matt', 'Miami', 1000);
+     ('Brad', 'RRHH', 2300),
+     ('George', 'Develop', 2500),
+     ('Matt', 'Infrastructure', 5000);
