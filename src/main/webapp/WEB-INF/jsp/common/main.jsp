@@ -10,7 +10,6 @@
                 <th scope="col">Nombre</th>
                 <th scope="col">Departamento</th>
                 <th scope="col">Sueldo</th>
-                <th scope="col">Accion</th>
             </tr>
             </thead>
             <tbody>
@@ -22,21 +21,6 @@
                     <td>
                         <fmt:setLocale value="en_US"/>
                         <fmt:formatNumber type="currency" value="${employee.salary}"/>
-                    </td>
-                    <td class="text-center">
-                        <c:set var = "urlEdit">
-                            <c:url value = "/edit">
-                                <c:param name="id" value="${employee.id}"/>
-                            </c:url>
-                        </c:set>
-                        <a href="${urlEdit}" class="btn btn-warning btn-sm me-3">Editar</a>
-
-                        <c:set var = "urlDelete">
-                            <c:url value = "/delete">
-                                <c:param name="id" value="${employee.id}"/>
-                            </c:url>
-                        </c:set>
-                        <a href="${urlDelete}" class="btn btn-danger btn-sm me-3">Eliminar</a>
                     </td>
                 </tr>
             </c:forEach>
